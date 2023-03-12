@@ -1,0 +1,21 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+body {
+    background-color: #535353 !important;
+}
+.has-background-grey-darker {
+    background-color: #595959 !important;
+}
+
+.has-background-grey-dark {
+    background-color: #3D393C !important;
+}
+
+.has-background-grey {
+    background-color: #535353 !important;
+}
+
+/*purple*/
+.has-background-link-dark {
+    background-color: #46008C !important;
+}
